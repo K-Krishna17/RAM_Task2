@@ -91,6 +91,7 @@ Observations:
 
 2. SIMULATION TCL CONSOLE:
 
+<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/44414e1e-e90b-44ba-a4ab-136f28970cb2" />
 
 3. SIMULATION WAVEFORM:
 
