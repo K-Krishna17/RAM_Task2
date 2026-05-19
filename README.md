@@ -87,6 +87,7 @@ Observations:
 
 1. RTL DESIGN:
 
+<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/9334ac2f-6890-4992-aebf-378408bf0473" />
 
 2. SIMULATION TCL CONSOLE:
 
