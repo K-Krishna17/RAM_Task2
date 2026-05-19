@@ -18,7 +18,9 @@
 To design and implement a Simple Synchronous RAM using Verilog HDL with:
 
 -> Read Operation
+
 -> Write Operation
+
 -> Clock Synchronization
 
 and verify its functionality using a testbench simulation.
@@ -29,6 +31,7 @@ Synchronous RAM:
 In Synchronous RAM, all operations occur only at the:
 
 -> Data is written only when clock rises
+
 -> Data is read only when clock rises
 
 
@@ -47,11 +50,15 @@ Ram Specifications:
 Timing Behavior:
 
 During Write
+
 -> we = 1
+
 -> Data stored on rising edge
 
 During Read
+
 -> we = 0
+
 -> Data appears at output on rising edge
 
 
@@ -68,8 +75,11 @@ Functional Table:
 Observations: 
 
 -> RAM performs write operation.
+
 -> RAM performs read operation.
+
 -> Data written into memory is correctly retrieved during read operation.
+
 -> All operations occur only at positive edge of clock.
 
 
