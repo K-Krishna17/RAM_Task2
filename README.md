@@ -95,3 +95,4 @@ Observations:
 
 3. SIMULATION WAVEFORM:
 
+<img width="1799" height="874" alt="Image" src="https://github.com/user-attachments/assets/8a790ddc-decd-4e4c-947d-6da53e51b437" />
