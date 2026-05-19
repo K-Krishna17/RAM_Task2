@@ -32,7 +32,7 @@ In Synchronous RAM, all operations occur only at the:
 -> Data is read only when clock rises
 
 
-RAM SPECIFICATIONS:
+Ram Specifications:
 
 | Parameter     | Value           |
 | ------------- | --------------- |
