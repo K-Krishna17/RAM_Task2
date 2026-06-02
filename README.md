@@ -26,7 +26,7 @@ To design and implement a Simple Synchronous RAM using Verilog HDL with:
 and verify its functionality using a testbench simulation.
 
 
-Synchronous RAM:
+## Synchronous RAM:
 
 In Synchronous RAM, all operations occur only at the:
 
@@ -35,7 +35,7 @@ In Synchronous RAM, all operations occur only at the:
 -> Data is read only when clock rises
 
 
-Ram Specifications:
+## Ram Specifications:
 
 | Parameter     | Value           |
 | ------------- | --------------- |
@@ -47,7 +47,7 @@ Ram Specifications:
 | Operations    | Read & Write    |
 
 
-Timing Behavior:
+### Timing Behavior:
 
 During Write
 
@@ -62,7 +62,7 @@ During Read
 -> Data appears at output on rising edge
 
 
-Functional Table:
+## Functional Table:
 
 | Clock Edge | WE | Address | Data In | Operation | Data Out |
 | ---------- | -- | ------- | ------- | --------- | -------- |
@@ -72,7 +72,7 @@ Functional Table:
 | ↑          | 0  | 4       | X       | Read      | 45       |
 
 
-Observations: 
+## Observations: 
 
 -> RAM performs write operation.
 
